@@ -7,9 +7,13 @@ This project was built as part of my Machine Learning learning journey using **P
 
 ---
 
-## 🚀 Demo
 
-The application allows users to enter medical information through an interactive web interface and instantly receive a prediction.
+  # ❤️ Heart Disease Prediction
+
+🔗 **Live Demo:** https://heart-disease-predictor-jeet.streamlit.app/
+
+A Machine Learning web application that predicts heart disease risk using Logistic Regression and Streamlit.
+
 
 ### Features
 
