@@ -28,7 +28,6 @@ A Machine Learning web application that predicts heart disease risk using Logist
 
 ## 🖥️ Application Preview
 
-> Add screenshots of your application here.
 
 ### Home Page
 
